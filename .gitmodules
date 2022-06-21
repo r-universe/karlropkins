@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AQEval"]
+	path = AQEval
+	url = https://github.com/karlropkins/aqeval
+	shallow = true
+	registered = true
